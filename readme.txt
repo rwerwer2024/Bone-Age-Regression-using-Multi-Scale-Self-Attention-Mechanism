@@ -45,6 +45,6 @@ Status:  Preprint submitted to Biomedical Signal Processing and Control (under r
 
 This repository includes preliminary code and a detailed guide for running the experiments. Please download the required public dataset as described in the associated paper. 
 
-Any questions please contact to Mr. Guanyu Wu  email: 812997877@qq.com  
+Any questions please contact to Mr. Guanyu Wu  email: 812997877@qq.com  or gao_shaobing@163.com
 ------------------------------------------------------------
 ------------------------------------------------------------
