@@ -1,5 +1,8 @@
 To execute the code, please follow these steps:
 
+Several large pre-trained model files and code are available for download from Google Drive.
+https://drive.google.com/drive/folders/1udZ0SSgi0whG6BqdSyYh0M5opWu8Ta9j?usp=sharing 
+
 The first step>
 To train the model effectively, follow these steps:
 1.	Set up the environment: Ensure you have the necessary libraries and dependencies installed for running the train_LayerMSA_gender2_tripletloss.py code.
